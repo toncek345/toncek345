@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hey there!
 
-<!--
-**toncek345/toncek345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I've moved! 🚚
 
-Here are some ideas to get you started:
+I've migrated away from GitHub due to **privacy concerns** and my commitment to digital sovereignty.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏠 Find me at my self-hosted Forgejo instance:
+
+<p align="center">
+  <a href="https://git.technologent.xyz">
+    <img src="https://img.shields.io/badge/git.technologent.xyz-Visit%20My%20Repos-blue?style=for-the-badge&logo=forgejo&logoColor=white" alt="My Git Server"/>
+  </a>
+</p>
+
+---
+
+### 🤔 Why I left GitHub
+
+- **Privacy** — My code, my data, my servers
+- **Independence** — No reliance on big tech platforms
+- **Control** — Full ownership of my digital identity
+- **Open Source** — Running on [Forgejo](https://forgejo.org), a community-driven Git forge
+
+---
+
+### 📫 How to reach me
+
+- 🌐 **Git**: [git.technologent.xyz](https://git.technologent.xyz)
+- ✉️ **Email**: toni.bosak@gmail.com (soon to change 😄)
+
+---
+
+<p align="center">
+  <i>"If you're not paying for the product, you are the product."</i>
+</p>
+
+<p align="center">
+  <sub>This GitHub account is kept only for visibility. All active development happens on my self-hosted instance.</sub>
+</p>
